@@ -1,0 +1,34 @@
+# IDAMAN
+STARTUP PROGRAM AUTOMATION
+
+## Contributor:
+1. Raka Suryaardi Widjaja
+2. ...
+3. ...
+
+## Application
+- C1. MONGODB + APP IDAMAN.ID + GATEWAY WEB + SERVICE INSTITUTION, PREFERENCE, USER
+- C2. MONGODB + GATEWAY ANDROID + SERVICE INSTITUTION, PREFERENCE, USER
+- C3. ...
+
+- A. DATABASE MONGODB
+- B. ...
+
+- 1. WEB APP IDAMAN.ID
+- 2. GATEWAY WEB
+- 3. GATEWAY ANDROID
+- 4. GATEWAY PAYMENT
+- 5. SERVICE INSTITUTION
+- 6. SERVICE MERCHANT
+- 7. SERVICE PAYMENT
+- 8. SERVICE TRANSACTION
+- 9. SERVICE PREFERENCE
+- 10. SERVICE SEARCH
+- 11. SERVICE USER
+- 12. ...
+
+## Roadmap (TODO)
+1. Modularize script (write function)
+2. Dynamic configuration (persistance setting)
+3. Multiplatform (Window, Linux, etc)
+4. 
