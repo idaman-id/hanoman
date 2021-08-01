@@ -1,34 +1,51 @@
-# IDAMAN
-STARTUP PROGRAM AUTOMATION
+# Hanoman 😇
+Bash script to automate launching tools & program (currently support: window)
 
-## Contributor:
-1. Raka Suryaardi Widjaja
-2. ...
-3. ...
+🤩 Motivations
+---
+1. Provide easy to use program to automate launching tools & program during development (don't need to `change directory` -> `typing command` anymore)
 
-## Application
-- C1. MONGODB + APP IDAMAN.ID + GATEWAY WEB + SERVICE INSTITUTION, PREFERENCE, USER
-- C2. MONGODB + GATEWAY ANDROID + SERVICE INSTITUTION, PREFERENCE, USER
-- C3. ...
+🖖 Usage
+---
+## Setting
+1. Open `startup.bat`
+2. Change `menu` or `execution path` accordingly
+3. [Launching](#launching)
 
-- A. DATABASE MONGODB
-- B. ...
+## Launching
+1. Double click `startup.bat`
+2. Choose menus (seperate by commas), e.g: ``
+3. Enjoy!
 
-- 1. WEB APP IDAMAN.ID
-- 2. GATEWAY WEB
-- 3. GATEWAY ANDROID
-- 4. GATEWAY PAYMENT
-- 5. SERVICE INSTITUTION
-- 6. SERVICE MERCHANT
-- 7. SERVICE PAYMENT
-- 8. SERVICE TRANSACTION
-- 9. SERVICE PREFERENCE
-- 10. SERVICE SEARCH
-- 11. SERVICE USER
-- 12. ...
+✔️ Test
+---
+![Test][test-url]
 
-## Roadmap (TODO)
+🤩 Contributor
+---
+[![](https://github.com/kokoraka.png?size=50)](https://github.com/kokoraka)
+
+🚀 Roadmaps
+---
+To understand more about our progress please see [changelog][changelog-url]
+
+[v0.0.1] - Aug 1, 2021
+1. First release
+
+[v0.0.2] - Soon
 1. Modularize script (write function)
 2. Dynamic configuration (persistance setting)
 3. Multiplatform (Window, Linux, etc)
-4. 
+
+💖 Support
+---
+Feel free to contributes and supporting us through: 
+[Patreon][patreon-url]
+
+📜 License
+---
+MIT
+
+[patreon-url]: https://patreon.com/idaman
+[test-url]: asset/image/test.png
+[changelog-url]: CHANGELOG.md
