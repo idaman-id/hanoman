@@ -20,6 +20,7 @@ Bash script to automate launching tools & program (currently support: window)
 ✔️ Test
 ---
 ![Test][test-url]
+![Test Result][test-result-url]
 
 🤩 Contributor
 ---
@@ -48,4 +49,5 @@ MIT
 
 [patreon-url]: https://patreon.com/idaman
 [test-url]: asset/image/test.png
+[test-result-url]: asset/image/test-result.png
 [changelog-url]: CHANGELOG.md
